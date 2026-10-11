@@ -4,7 +4,7 @@ Give it a research paper PDF. A **local open-source model (Qwen via Ollama, on y
 proposes the headline result; ordinary code verifies it, runs the experiment, and gives an honest verdict.
 **The AI proposes. Ordinary code verifies.** Nothing leaves your computer.
 
-## Setup (Fedora / Linux laptop)
+## Setup (Linux laptop)
 ```bash
 ollama serve &                 # skip if Ollama already runs as a service
 ollama pull qwen3.5:4b         # one-time, ~3.4 GB
