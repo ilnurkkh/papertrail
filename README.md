@@ -1,4 +1,4 @@
-# PaperTrail (hackathon edition)
+# PaperTrail
 
 Give it a research paper PDF. A **local open-source model (Qwen via Ollama, on your own machine)** reads it and
 proposes the headline result; ordinary code verifies it, runs the experiment, and gives an honest verdict.
